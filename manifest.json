@@ -3,6 +3,7 @@
   "loading_order": 1,
   "requires": [],
   "optional": [],
+  "js": "index.js",
   "css": "style.css",
   "author": "tudoushu001",
   "version": "1.0.0",
