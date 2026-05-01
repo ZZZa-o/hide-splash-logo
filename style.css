@@ -1,9 +1,11 @@
-/* Hide SillyTavern 1.13 splash logo */
+/* Hide SillyTavern 1.17 splash logo and message */
 
 #loader.splash-screen .splash-logo,
 #loader .splash-logo,
 .splash-screen .splash-logo,
-.splash-logo {
+.splash-logo,
+#loader.splash-screen .splash-message,
+.splash-message {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
