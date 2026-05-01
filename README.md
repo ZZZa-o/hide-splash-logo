@@ -31,7 +31,8 @@ SillyTavern/public/scripts/extensions/third-party/
 等价于在 `loader.css` 末尾加这么一句：
 
 ```css
-#loader.splash-screen .splash-logo {
+#loader.splash-screen .splash-logo,
+#loader.splash-screen .splash-message {
     display: none !important;
 }
 ```
